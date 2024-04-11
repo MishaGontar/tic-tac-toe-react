@@ -1,8 +1,8 @@
-<h1>Tic tac toe </h1>
-Цю гру думаю знає кожен . Правила такіж самі . 
-<h2>Демонстрація роботи:</h2>
-<video></video>
-<h2>Що я використовува із React:</h2>
+<h1>Tic Tac Toe</h1>
+This game is familiar to everyone. The rules are also the same.
+<h3>Demonstration of work:</h3>
+<a href="https://tic-tac-toe-react-tvk3.onrender.com/">Site for test project</a>
+<h3>What I use from React:</h3>
 <ol>
   <li>useState()</li>
   <li>onChange()</li>
